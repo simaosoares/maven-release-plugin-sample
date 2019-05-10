@@ -5,7 +5,7 @@
 
   <groupId>com.example.samples</groupId>
   <artifactId>maven-release-plugin-sample</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>maven-release-plugin-sample</name>
   <url>https://github.com/simaosoares/maven-release-plugin-sample.git</url>
@@ -31,7 +31,7 @@
     <connection>scm:git:https://github.com/simaosoares/maven-release-plugin-sample.git</connection>
     <developerConnection>scm:git:https://github.com/simaosoares/maven-release-plugin-sample.git</developerConnection>
     <url>https://github.com/simaosoares/maven-release-plugin-sample</url>
-    <tag>maven-release-plugin-sample-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
